@@ -1,5 +1,5 @@
-<h1>Hi 👋 My name is Minh Pham</h1>
-<p>👨 My full name is Pham Ngoc Minh and I am a front-end web developer. I am from Vietnam and my goal is to become a full-stack web developer.</p>
+<h1>Ngoc Minh GitHub Profile</h1>
+<p>Welcome to my GitHub playground! 👋 I'm Ngoc Minh, a passionate front-end developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️</p>
 
 
 
